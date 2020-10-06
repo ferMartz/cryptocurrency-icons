@@ -67,8 +67,8 @@ const icons = manifest.map(icon => {
 	if (!fillColor) {
 		throw new Error(`Couldn't get color for \`${id}\``);
 	}
-
-	return {
+   
+	return  {
 		symbol: id.toUpperCase(),
 		name: overrides.get(id) || coins.get(id, 'name') || id,
 		color: fillColor.hex().toLowerCase()

@@ -86,7 +86,7 @@
 	},
 	{
 		"symbol": "AMPL",
-		"name": "Ampleforth",
+		"name": "AMPL",
 		"color": "#000000"
 	},
 	{
@@ -1036,7 +1036,7 @@
 	},
 	{
 		"symbol": "KLOWN",
-		"name": "Ether Clown",
+		"name": "KLOWN",
 		"color": "#ea0017"
 	},
 	{
@@ -1066,7 +1066,7 @@
 	},
 	{
 		"symbol": "LEO",
-		"name": "Unus Sed LEO",
+		"name": "LEOcoin",
 		"color": "#11021e"
 	},
 	{
@@ -1646,7 +1646,7 @@
 	},
 	{
 		"symbol": "SIN",
-		"name": "SINOVATE",
+		"name": "SIN",
 		"color": "#f5342e"
 	},
 	{
